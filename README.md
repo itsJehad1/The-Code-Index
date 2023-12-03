@@ -1,1 +1,1 @@
-# The-Code-Index
+# The-Code-Magazine-Project
